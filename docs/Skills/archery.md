@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# Giáp nhẹ
+# Bắn cung
 | Tiền tố   | Hậu tố    |
 | ------- | -------- |
 | Mô tả | Khả năng chiến đấu tầm xa, Kỹ năng càng cao, bạn gây sát thương càng nhiều bằng cung và nỏ, bắn càng chính xác |
