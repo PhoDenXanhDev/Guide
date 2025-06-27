@@ -2,7 +2,7 @@
 sidebar_position: 14
 ---
 
-# Giáp nhẹ
+# Giáp nặng
 | Tiền tố   | Hậu tố    |
 | ------- | -------- |
 | Mô tả |  Cách bạn bảo vệ bản thân bằng giáp bảo vệ cao nhưng nặng hơn. Giáp nặng làm chậm bạn đáng kể nhưng tốt hơn cho người chơi thích ở lại trận chiến và gây sát thương tối đa |
