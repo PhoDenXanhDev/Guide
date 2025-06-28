@@ -33,7 +33,8 @@ Những nguyên liệu cần để chế tạo giá treo đồ rất đơn giả
    > **Lưu ý:** Vị trí bạn chuột phải có ảnh hưởng đến vị trí vật phẩm được đặt.
    >
    > Thường thì giá treo đồ có 2 slot để treo dụng cụ: 1 bên **trái** và bên **phải** (Trừ một số trường hợp như khi treo khiên, dụng cụ treo trên giá treo trên tường)
-   > ![Giá treo đồ bên trái](./img/racks_left.png) > ![Giá treo đồ bên phải](./img/racks_right.png)
+   >
+   > ![Giá treo đồ bên trái](./img/racks_left.png) ![Giá treo đồ bên phải](./img/racks_right.png)
 
 3. **Shift + Chuột phải** vào từng món đồ được treo để chiều chỉnh hướng xoay/kiểu treo
 
