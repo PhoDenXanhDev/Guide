@@ -6,6 +6,8 @@ sidebar_position: 2
 
 ---
 
+## Giới thiệu
+
 **Giá treo dụng cụ** là những block đặc biệt giúp bạn trang trí nơi ở và _flex_ vũ khí hay dụng cụ bạn có. Ngoài ra nó cũng có thể dùng để đựng lên tới **2** dụng cụ khác nhau
 
 ![Giá treo dụng cụ 1](https://cdn.modrinth.com/data/Ws2vw51R/images/193d163b1a42d292477df211f021cc1a0efe7ecf.png)
