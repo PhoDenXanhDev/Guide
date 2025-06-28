@@ -17,7 +17,9 @@ sidebar_position: 2
 
 ## Cách chế tạo
 
-> Có đủ **tất cả** những loại giá treo cho tất cả các loại gỗ
+:::note Ghi chú
+Có đủ **tất cả** những loại giá treo cho tất cả các loại gỗ
+:::
 
 Những nguyên liệu cần để chế tạo giá treo đồ rất đơn giản với:
 
@@ -28,17 +30,19 @@ Những nguyên liệu cần để chế tạo giá treo đồ rất đơn giả
 
 ## Cách sử dụng
 
-1. **Đặt** giá treo xuống đất hoặc trên tường
+<h3> 1. **Đặt** giá treo xuống đất hoặc trên tường </h3>
 
-2. **Chuột phải** dụng cụ bạn muốn để lên giá treo
+<h3> 2. **Chuột phải** dụng cụ bạn muốn để lên giá treo </h3>
 
-   > **Lưu ý:** Vị trí bạn chuột phải có ảnh hưởng đến vị trí vật phẩm được đặt.
-   >
-   > Thường thì giá treo đồ có 2 slot để treo dụng cụ: 1 bên **trái** và bên **phải** (Trừ một số trường hợp như khi treo khiên, dụng cụ treo trên giá treo trên tường)
-   >
-   > ![Giá treo đồ bên trái](./img/racks_left.png) ![Giá treo đồ bên phải](./img/racks_right.png)
+:::tip Mẹo
+Vị trí bạn click có ảnh hưởng đến vị trí vật phẩm được đặt.
 
-3. **Shift + Chuột phải** vào từng món đồ được treo để chiều chỉnh hướng xoay/kiểu treo
+Thường thì giá treo đồ có 2 slot để treo dụng cụ: 1 bên **trái** và bên **phải** (Trừ một số trường hợp như khi treo khiên, dụng cụ treo trên giá treo trên tường)
+
+![Giá treo đồ bên trái](./img/racks_left.png) ![Giá treo đồ bên phải](./img/racks_right.png)
+:::
+
+<h3> 3. **Shift + Chuột phải** vào từng món đồ được treo để chiều chỉnh hướng xoay/kiểu treo </h3>
 
 ![Giá treo đồ được chỉnh hướng 1](./img/racks_pose1.png)
 ![Giá treo đồ được chỉnh hướng 2](./img/racks_pose2.png)
