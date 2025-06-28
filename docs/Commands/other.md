@@ -15,7 +15,7 @@ sidebar_position: 7
 | -------- | ------------------------------ | --------------------------------------------- |
 | backpack | `/backpack`                    | Balô                                          |
 | shop     | `/shop`                        | Cửa hàng                                      |
-| skill    | `/skill`                       | Mở menu skill                                 |
+| skills    | `/skills`                       | Mở menu skill                                 |
 | trinkets | `/trinkets`                    | Mở menu phụ kiện                              |
 | team     | `/team`                        | Mở menu team                                  |
 | skin     | `/skin set <tên>`              | Đặt skin                                      |
