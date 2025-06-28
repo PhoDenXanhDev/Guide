@@ -1,6 +1,6 @@
 {
   "label": "Lệnh",
-  "position": 5,
+  "position": 4,
   "link": {
     "type": "generated-index",
     "description": "Những lệnh cần trong việc hoạt động trên server."
