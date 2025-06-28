@@ -36,3 +36,13 @@
   color: white !important;
 }
 
+.hero__title {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  color: white !important;
+}
+
+.hero__subtitle {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  color: white !important;
+}
+
