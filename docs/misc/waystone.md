@@ -28,11 +28,11 @@ Những nguyên liệu cơ bản bao gồm:
 
 Sau khi chế tạo xong, đặt xuống và chuột phải để mở menu
 
-### Lưu ý:
+:::tip Mẹo
+Block ở **phía dưới** waystone sẽ là **icon** của waystone được hiện trên Menu
 
-> Block ở **phía dưới** waystone sẽ là **icon** của waystone được hiện trên Menu
->
-> Bạn có thể **rename** cho vật phẩm waystone trước khi đặt xuống để waystone có **tên riêng** trong menu
+Bạn có thể **rename** cho vật phẩm waystone trước khi đặt xuống để waystone có **tên riêng** trong menu
+:::
 
 ![Menu Waystone](./img/waystone_gui.png)
 
@@ -66,7 +66,9 @@ Bạn có thể **bật / tắt** chế độ bảo vệ bằng nút bên dướ
 
 ### Chia sẻ
 
-> **Lưu ý:** Chỉ hoạt động khi chế độ hiển thị đặt sang **Private**
+:::warning Lưu ý
+Chỉ hoạt động khi chế độ hiển thị đặt sang **Private**
+:::
 
 Để **chia sẻ** waystone cho người khác, bạn hãy **đặt** vào một quyển sách **(Book & Quill)** với **mỗi trang** ghi một tên người chơi vào ô dưới đây
 
