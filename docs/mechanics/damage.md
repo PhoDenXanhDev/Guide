@@ -16,7 +16,7 @@ Sát Thương Đã Kháng x tối đa(0.1, (15 / (15 + giáp)) - (Độ Bền x 
 ## Các loại sát thương vật lý
 - Vật phi ra
 - Khối rơi (đe, vv, ...)
-- Bludgeoning (70% hiệu quả giáp) ❗ Loại sát thương tùy chỉnh
+- Sát thương liên tục (70% hiệu quả giáp) ❗ Loại sát thương tùy chỉnh
 - Tấn công cận chiến
 - Tấn công quét (dạng quét cạnh kiếm, tấn công diện rộng)
 - Tấn công vụ nổ (70% hiệu quả giáp)
