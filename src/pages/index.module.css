@@ -46,3 +46,17 @@
   text-decoration: none;
   color: #333;
 }
+
+
+[data-theme='dark'] .docButton {
+  background: rgba(36, 37, 38, 0.8);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme='dark'] .docButton:hover {
+  background: rgba(45, 45, 45, 0.95);
+  color: #ffffff;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+}
