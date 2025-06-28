@@ -63,7 +63,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Hướng Dẫn",
         },
         {
           href: "https://github.com/PhoDenXanhDev/Guide",
