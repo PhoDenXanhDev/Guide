@@ -22,7 +22,7 @@ Trước khi bắt đầu, hãy hiểu về hệ thống cấp độ vật liệ
 
 ### 🗡️ Vũ khí tùy chỉnh
 - **[Rìu chiến lớn](./great-axes)** - Vũ khí chậm nhưng sát thương cao với tỷ lệ chí mạng tăng
-- **[Búa chiến](./warhammers)** - Vũ khí gây sát thương bludgeoning với khả năng knockback và stun
+- **[Búa chiến](./warhammers)** - Vũ khí gây sát thương liên tục với khả năng knockback và stun
 - **[Giáo](./spears)** - Vũ khí tầm xa với sát thương velocity
 - **[Chùy gai](./morningstars)** - Vũ khí nhanh với khả năng stun
 - **[Kiếm thọc](./rapiers)** - Vũ khí nhanh với khả năng xuyên giáp
