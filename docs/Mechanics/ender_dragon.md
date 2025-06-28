@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Rồng Ender 🐉
+# 🐉 Rồng Ender
 
 Rồng Ender đã được buff máu từ **200HP** → **300HP** và với vô vàng những chiêu thức tấn công mới
 

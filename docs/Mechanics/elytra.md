@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Elytra 🪽
+# 🪽 Elytra
 
 Elytra là một phương tiện di chuyển tiện lợi. Tuy nhiên nó gây **lag** cho server khi bay với **tốc độ cao** và **khoảng cách lớn**
 

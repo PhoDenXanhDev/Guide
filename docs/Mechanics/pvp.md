@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# PvP Công bằng ⚔️
+# ⚔️ PvP Công bằng
 
 Server có hệ thống giúp PvP công bằng và thân thiện hơn hơn.
 ## Cơ chế

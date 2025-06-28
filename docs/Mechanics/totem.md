@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Totem 🗿
+# 🗿 Totem
 
 Totem đã được cân bằng sức mạnh với cơ chế **1 Mạng 1 Totem**
 
