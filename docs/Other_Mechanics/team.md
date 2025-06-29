@@ -2,9 +2,10 @@
 sidebar_position: 4
 ---
 
-# 🧑‍🤝‍🧑 Team 
+# 🧑‍🤝‍🧑 Team
 
 Hệ thống team giúp hỗ trợ sự hợp tác và tương tác giữa các người chơi
+
 ## Cơ chế
 
 - Dùng lệnh [`/team`](../Commands/other.md) để bắt đầu **tìm** / **tạo** team và sử dụng team

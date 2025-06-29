@@ -5,7 +5,7 @@ sidebar_position: 2
 # 🐉 Rồng Ender
 
 Rồng Ender đã được buff máu từ **200HP** → **300HP** và với vô vàng những chiêu thức tấn công mới
-
+Add commentMore actions
 ![Ảnh rồng Ender Dragon](https://cdn.modrinth.com/data/MCnBYP0b/images/e0e040e22d1232a8ad11d3d5716b9d259e7a526a.png)
 
 :::warning Lưu ý
