@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Waystone
+# 🪄 Waystone
 
 ## Giới thiệu
 
