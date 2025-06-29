@@ -84,7 +84,6 @@ Chỉ được sử dụng bởi những thợ câu khéo léo nhất, đại di
 | Thuộc tính | Giá trị |
 |------------|---------|
 | **Độ bền tối đa** | 128 |
-| **Custom Model Data** | 50007 |
 | **Hiệu ứng** | Giảm thời gian chờ x0.95, Tăng độ khó +10, Tăng cơ hội cá chất lượng |
 
 ---
