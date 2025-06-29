@@ -8,7 +8,7 @@ Rìu chiến lớn là vũ khí chậm nhưng có sát thương cực cao, đặ
 
 ### Công thức chế tạo
 
-![Rìu chiến lớn](./img/great_axes.png)
+![Rìu lớn](./img/great_axes.png)
 
 ## Thông số cơ bản
 
