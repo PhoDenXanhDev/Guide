@@ -6,6 +6,14 @@ sidebar_position: 1
 
 Cần câu là công cụ chính để câu cá trong máy chủ. Mỗi loại cần câu có những đặc tính và hiệu ứng riêng biệt, phù hợp với các phong cách câu cá khác nhau.
 
+:::tip Cách sử dụng
+
+1. **Trang bị cần câu**: Cầm cần câu trong tay chính
+2. **Sử dụng mồi câu**: Cầm mồi câu trong tay phụ (nếu có)
+3. **Trang bị lưỡi câu**: Kéo thả lưỡi câu vào cần câu (nếu có)
+4. **Câu cá**: Nhấp chuột phải để ném câu, nhấp chuột phải lại khi có cá cắn câu
+   :::
+
 ---
 
 ## Cần Câu Người Mới Bắt Đầu
@@ -14,10 +22,10 @@ Cần câu là công cụ chính để câu cá trong máy chủ. Mỗi loại c
 
 ![Cần Câu Người Mới Bắt Đầu](./img/beginner-rod.png)
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 64 |
-| **Hiệu ứng** | Tăng thời gian chờ x1.5, Giảm độ khó -8 |
+| Thuộc tính        | Giá trị                                 |
+| ----------------- | --------------------------------------- |
+| **Độ bền tối đa** | 64                                      |
+| **Hiệu ứng**      | Tăng thời gian chờ x1.5, Giảm độ khó -8 |
 
 ## Cần Câu Bạc
 
@@ -25,10 +33,10 @@ Cần câu là công cụ chính để câu cá trong máy chủ. Mỗi loại c
 
 ![Cần Câu Bạc](./img/silver-rod.png)
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 96 |
-| **Hiệu ứng** | Tăng cơ hội câu được cá sao bạc +8 |
+| Thuộc tính        | Giá trị                            |
+| ----------------- | ---------------------------------- |
+| **Độ bền tối đa** | 96                                 |
+| **Hiệu ứng**      | Tăng cơ hội câu được cá sao bạc +8 |
 
 ## Cần Câu Vàng
 
@@ -36,10 +44,10 @@ Lấp lánh dưới ánh nắng mặt trời và toả ra hào quang xa hoa, là
 
 ![Cần Câu Vàng](./img/gold-rod.png)
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 80 |
-| **Hiệu ứng** | Tăng cơ hội câu được cá sao vàng +3 |
+| Thuộc tính        | Giá trị                             |
+| ----------------- | ----------------------------------- |
+| **Độ bền tối đa** | 80                                  |
+| **Hiệu ứng**      | Tăng cơ hội câu được cá sao vàng +3 |
 
 ## Cần Câu Ngôi Sao (Bonus)
 
@@ -47,10 +55,10 @@ Lấp lánh dưới ánh nắng mặt trời và toả ra hào quang xa hoa, là
 
 ![Cần Câu Ngôi Sao](./img/star-rod.png)
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 128 |
-| **Hiệu ứng** | +15 giây thời gian chơi |
+| Thuộc tính        | Giá trị                 |
+| ----------------- | ----------------------- |
+| **Độ bền tối đa** | 128                     |
+| **Hiệu ứng**      | +15 giây thời gian chơi |
 
 ## Cần Câu Xương
 
@@ -58,10 +66,10 @@ Lấp lánh dưới ánh nắng mặt trời và toả ra hào quang xa hoa, là
 
 ![Cần Câu Xương](./img/bone-rod.png)
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 32 |
-| **Hiệu ứng** | Câu cá trong dung nham, Thu hút Skeleton |
+| Thuộc tính        | Giá trị                                  |
+| ----------------- | ---------------------------------------- |
+| **Độ bền tối đa** | 32                                       |
+| **Hiệu ứng**      | Câu cá trong dung nham, Thu hút Skeleton |
 
 ## Cần Câu Ma Thuật
 
@@ -69,11 +77,11 @@ Một sản phẩm của sự đổi mới bí ẩn, sử dụng sách phù phé
 
 ![Cần Câu Ma Thuật](./img/magical-rod.png)
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 16 |
-| **Yêu cầu** | 30 cấp độ kinh nghiệm, 1x mồi sách |
-| **Hiệu ứng** | Câu được sách phù phép, Thời gian chờ rất lâu |
+| Thuộc tính        | Giá trị                                       |
+| ----------------- | --------------------------------------------- |
+| **Độ bền tối đa** | 16                                            |
+| **Yêu cầu**       | 30 cấp độ kinh nghiệm, 1x mồi sách            |
+| **Hiệu ứng**      | Câu được sách phù phép, Thời gian chờ rất lâu |
 
 ## Cần Câu Bậc Thầy
 
@@ -81,17 +89,7 @@ Chỉ được sử dụng bởi những thợ câu khéo léo nhất, đại di
 
 ![Cần Câu Bậc Thầy](./img/master-rod.png)
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 128 |
-| **Hiệu ứng** | Giảm thời gian chờ x0.95, Tăng độ khó +10, Tăng cơ hội cá chất lượng |
-
----
-
-:::tip Cách sử dụng
-
-1. **Trang bị cần câu**: Cầm cần câu trong tay chính
-2. **Sử dụng mồi câu**: Cầm mồi câu trong tay phụ (nếu có)
-3. **Trang bị lưỡi câu**: Kéo thả lưỡi câu vào cần câu (nếu có)
-4. **Câu cá**: Nhấp chuột phải để ném câu, nhấp chuột phải lại khi có cá cắn câu
-:::
+| Thuộc tính        | Giá trị                                                              |
+| ----------------- | -------------------------------------------------------------------- |
+| **Độ bền tối đa** | 128                                                                  |
+| **Hiệu ứng**      | Giảm thời gian chờ x0.95, Tăng độ khó +10, Tăng cơ hội cá chất lượng |

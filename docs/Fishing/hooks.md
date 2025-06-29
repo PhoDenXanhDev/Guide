@@ -14,11 +14,11 @@ Một hiện thân của nghề thủ công và sức hấp dẫn, lưỡi câu 
 
 ### Thông số cơ bản
 
-| Thuộc tính | Giá trị |
-|------------|---------|
-| **Độ bền tối đa** | 16 lần sử dụng |
-| **Giá** | Mua ở `/shop` với giá 1000 xu |
-| **Hiệu ứng** | Tăng cơ hội câu được cá sao bạc +1, Tăng cơ hội câu được cá sao vàng +1 |
+| Thuộc tính        | Giá trị                                                                 |
+| ----------------- | ----------------------------------------------------------------------- |
+| **Độ bền tối đa** | 16 lần sử dụng                                                          |
+| **Giá**           | Mua ở `/shop` với giá 1000 xu                                           |
+| **Hiệu ứng**      | Tăng cơ hội câu được cá sao bạc +1, Tăng cơ hội câu được cá sao vàng +1 |
 
 ---
 
@@ -29,6 +29,8 @@ Một hiện thân của nghề thủ công và sức hấp dẫn, lưỡi câu 
 1. **Mở inventory**: Mở túi đồ của bạn
 2. **Kéo và thả**: Kéo lưỡi câu từ inventory và thả vào cần câu
 3. **Xác nhận**: Lưỡi câu sẽ được gắn vào cần câu và hiển thị thông tin trên lore
+
+![GIF minh hoạ sử dụng lưỡi câu](https://images.polymart.org/proxy/?v=1724&url=https%3A%2F%2Fi.imgur.com%2FA6RINzI.gif)
 
 ### Theo dõi độ bền
 
