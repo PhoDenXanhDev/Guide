@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "PhoDenXanhDev", // Usually your GitHub org/user name.
+  projectName: "Guide", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -74,6 +74,47 @@ const config: Config = {
     },
     footer: {
       style: "dark",
+      links: [
+        {
+          title: "Hướng Dẫn",
+          items: [
+            {
+              label: "Bắt Đầu",
+              to: "/docs/intro",
+            },
+            {
+              label: "Kỹ Năng",
+              to: "/docs/category/các-kỹ-năng",
+            },
+            {
+              label: "Công Thức",
+              to: "/docs/category/công-thức-chế-tạo",
+            },
+          ],
+        },
+        {
+          title: "Server",
+          items: [
+            {
+              label: "IP: mc.pdxmc.io.vn",
+              href: "#",
+            },
+            {
+              label: "Phiên bản: 1.21.4+",
+              href: "#",
+            },
+          ],
+        },
+        {
+          title: "Cộng Đồng",
+          items: [
+            {
+              label: "GitHub",
+              href: "https://github.com/PhoDenXanhDev/Guide",
+            },
+          ],
+        },
+      ],
       copyright: `Copyright © ${new Date().getFullYear()} PDXMC. Built with Docusaurus.`,
     },
     prism: {
