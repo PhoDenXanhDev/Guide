@@ -8,7 +8,8 @@ sidebar_position: 8
 # Làm sao để claim
 - Rất đơn giản, bạn cần mua khối bảo vệ tại `/shop`
 - Sử dụng xẻng vàng, chuột phải vào điểm 1 và chuột trái vào điểm 2 dựa trên số lượng block bạn có and Done !!
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c610d93d-7f54-4eaa-9387-711699790804" />
+
+![Claim](https://github.com/user-attachments/assets/c610d93d-7f54-4eaa-9387-711699790804)
 
 # Quản lý quyền truy cập claim của bạn
 - Ta có 2 lệnh:
@@ -23,7 +24,7 @@ sidebar_position: 8
 `/unclaim`: Hủy bỏ claim của bạn
 `/unclaimall`: Hủy tất cả claim bạn có, hoàn trả lại block
 
-:::warn Cảnh báo
+:::warning Cảnh báo
 - Giá claim có thể bị thay đổi
 - Claim có thể bị thay đổi quy chế, vd như không hoàn trả block khi hủy claim
 :::
