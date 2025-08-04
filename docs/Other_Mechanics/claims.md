@@ -13,15 +13,22 @@ sidebar_position: 8
 
 # Quản lý quyền truy cập claim của bạn
 - Ta có 2 lệnh:
+
 `/trust`: Giúp bạn whitelist những ai có thể truy cập claim của bạn
+
 `/untrust`: Hủy bỏ khả năng truy cập của người đó
 
 # Quản lý claim của bạn
 - Ta có 4 lệnh, điều kiện là bạn phải đứng trên khung vực claim của bạn:
+
 `/claimblocks`: Summary số block bạn dùng và có với claim
+
 `/claiminfo`: Thông tin claim của bạn
+
 `/claimslist`: Danh sách các claim bạn có
+
 `/unclaim`: Hủy bỏ claim của bạn
+
 `/unclaimall`: Hủy tất cả claim bạn có, hoàn trả lại block
 
 :::warning Cảnh báo
